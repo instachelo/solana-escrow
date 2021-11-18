@@ -17,10 +17,12 @@ Thus, the following are the THREE KEY FUNCTIONALITIES yet to be implemented:
 - Tests that exercise the escrow program
 - A UI for the escrow program
 
+
 ## Environment Setup
 
 1. Install Rust from <https://www.rust-lang.org/tools/install>
 2. Visit <https://docs.solana.com/cli/install-solana-cli-tools> to get the Solana CLI tools on your machine:
+
 
 ### MacOS & Linux
 
